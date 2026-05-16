@@ -6,21 +6,17 @@ class RandomizedSet {
     
     public boolean insert(int val) {
         // set.add(val);
-        if(set.contains(val)){
-            return false;
-        }else {
-            set.add(val);
-            return true;
-        }
+        return set.add(val);
     }
     
     public boolean remove(int val) {
-        if(set.contains(val)){
-            set.remove(val);
-            return true;
-        }else {
-            return false;
-        }
+        // if(set.contains(val)){
+        //     set.remove(val);
+        //     return true;
+        // }else {
+        //     return false;
+        // }
+        return set.remove(val);
     }
     
     public int getRandom() {
