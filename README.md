@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0994-rotting-oranges) |
 | [1991-find-the-middle-index-in-array](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1991-find-the-middle-index-in-array) |
+| [2540-minimum-common-value](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/2553-separate-the-digits-in-an-array) |
 ## Breadth-First Search
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [2540-minimum-common-value](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/2540-minimum-common-value) |
 ## Greedy
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0380-insert-delete-getrandom-o1) |
+| [2540-minimum-common-value](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/2540-minimum-common-value) |
 ## Design
 |  |
 | ------- |
@@ -71,4 +74,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1768-merge-strings-alternately](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1768-merge-strings-alternately) |
+| [2540-minimum-common-value](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/2540-minimum-common-value) |
 <!---LeetCode Topics End-->
