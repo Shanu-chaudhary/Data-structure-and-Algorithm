@@ -45,16 +45,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0013-roman-to-integer) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0380-insert-delete-getrandom-o1) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1071-greatest-common-divisor-of-strings) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0013-roman-to-integer) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1768-merge-strings-alternately) |
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0013-roman-to-integer) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0380-insert-delete-getrandom-o1) |
 | [2540-minimum-common-value](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/2540-minimum-common-value) |
 ## Design
