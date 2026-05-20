@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0013-roman-to-integer) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0392-is-subsequence) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1768-merge-strings-alternately) |
 ## Hash Table
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0392-is-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1768-merge-strings-alternately) |
 | [2540-minimum-common-value](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/2540-minimum-common-value) |
 ## Sorting
@@ -94,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
