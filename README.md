@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0334-increasing-triplet-subsequence](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0334-increasing-triplet-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0380-insert-delete-getrandom-o1) |
 | [0605-can-place-flowers](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0605-can-place-flowers) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0605-can-place-flowers) |
 ## Math
 |  |
