@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0334-increasing-triplet-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0380-insert-delete-getrandom-o1) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0542-01-matrix) |
 | [0605-can-place-flowers](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0724-find-pivot-index) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0540-single-element-in-a-sorted-array) |
 | [2540-minimum-common-value](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/2540-minimum-common-value) |
 ## Greedy
 |  |
