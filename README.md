@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0068-text-justification) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0209-minimum-size-subarray-sum](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [0334-increasing-triplet-subsequence](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0334-increasing-triplet-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0380-insert-delete-getrandom-o1) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0209-minimum-size-subarray-sum](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0540-single-element-in-a-sorted-array) |
 | [2540-minimum-common-value](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/2540-minimum-common-value) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1991-find-the-middle-index-in-array) |
@@ -127,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
