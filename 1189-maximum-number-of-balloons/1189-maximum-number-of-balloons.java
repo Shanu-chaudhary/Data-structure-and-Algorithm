@@ -1,38 +1,18 @@
 class Solution {
     public int maxNumberOfBalloons(String text) {
-        HashMap<Character, Integer> mpp = new HashMap<>();
-        for(char ch: text.toCharArray()){
-            mpp.put(ch, mpp.getOrDefault(ch, 0)+1);
+        int b_freq = 0;
+        int a_freq = 0;
+        int l_freq = 0;
+        int o_freq = 0;
+        int n_freq = 0;
+
+        for(char ch: text.toCharArray()) {
+            if(ch == 'b') b_freq++;
+            else if(ch == 'a') a_freq++;
+            else if(ch == 'l') l_freq++;
+            else if(ch == 'o') o_freq++;
+            else if(ch == 'n') n_freq++;
         }
-        int i=0;
-        while(mpp.containsKey('b') && mpp.containsKey('a') && mpp.containsKey('l') && mpp.containsKey('o') && mpp.containsKey('n')){
-            if(mpp.get('b')>0){
-                mpp.put('b', mpp.get('b')-1);
-            }else {
-                break;
-            }
-            if(mpp.get('a')>0){
-                mpp.put('a', mpp.get('a')-1);
-            }else {
-                break;
-            }
-            if(mpp.get('l')>1){
-                mpp.put('l', mpp.get('l')-2);
-            }else {
-                break;
-            }
-            if(mpp.get('o')>1){
-                mpp.put('o', mpp.get('o')-2);
-            }else {
-                break;
-            }
-            if(mpp.get('n')>0){
-                mpp.put('n', mpp.get('n')-1);
-            }else {
-                break;
-            }
-            i++;
-        }
-        return i;
+        return Math.min(Math.min(b_freq, a_freq), Math.min(n_freq, Math.min(l_freq/2, o_freq/2)));
     }
 }
