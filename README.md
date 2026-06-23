@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0011-container-with-most-water) |
+| [0056-merge-intervals](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0056-merge-intervals) |
 | [0068-text-justification](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0068-text-justification) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0056-merge-intervals) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1833-maximum-ice-cream-bars](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1840-maximum-building-height) |
