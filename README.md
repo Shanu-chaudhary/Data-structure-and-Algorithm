@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0068-text-justification) |
+| [0290-word-pattern](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0392-is-subsequence) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0202-happy-number) |
+| [0290-word-pattern](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0383-ransom-note) |
