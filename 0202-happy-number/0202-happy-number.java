@@ -3,14 +3,14 @@ class Solution {
         if(n==1){
             return true;
         }
-        HashSet<Integer> seen = new HashSet<>();
+        int slow = n;
+        int fast = n;
+        do {
+            slow = dSum(slow);
+            fast = dSum(dSum(fast));
+        } while(slow != fast);
 
-        while (n != 1 && !seen.contains(n)) {
-            seen.add(n);
-            n = dSum(n);
-        }
-
-        return n == 1;
+        return slow == 1;
     }
     private int dSum(int num){
         int sum = 0;
