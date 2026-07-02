@@ -3,6 +3,6 @@ class Solution {
         // if(n<=0){
         //     return false;
         // }
-        return (n>0 && (n & n-1) == 0);
+        return n>0 && (n & (n-1)) == 0;
     }
 }
