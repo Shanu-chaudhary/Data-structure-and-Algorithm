@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0190-reverse-bits) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Dynamic Programming
 |  |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0004-median-of-two-sorted-arrays) |
+| [0190-reverse-bits](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0190-reverse-bits) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
