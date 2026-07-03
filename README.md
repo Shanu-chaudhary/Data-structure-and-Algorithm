@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0056-merge-intervals) |
 | [0068-text-justification](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0068-text-justification) |
 | [0136-single-number](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0231-power-of-two) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
