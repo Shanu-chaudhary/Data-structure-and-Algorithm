@@ -1,17 +1,19 @@
 class Solution {
     public int[] singleNumber(int[] nums) {
-        int[] ans = new int[2];
-        HashMap<Integer, Integer> mpp = new HashMap<>();
+        long xorr =  0;
         for(int i=0; i<nums.length; i++){
-            mpp.put(nums[i], mpp.getOrDefault(nums[i], 0)+1);
+            xorr ^= nums[i];
         }
-        int k = 0;
-        for(Map.Entry<Integer, Integer> entry : mpp.entrySet()){
-            if(Objects.equals(entry.getValue(), 1)){
-                ans[k] = entry.getKey();
-                k++;
+        long rightmost = (xorr & -xorr);
+        int b1 = 0;
+        int b2 = 0;
+        for(int i=0;i<nums.length; i++){
+            if((nums[i] & rightmost) != 0){
+                b1 = b1 ^ nums[i];
+            }else {
+                b2 = b2 ^ nums[i];
             }
         }
-        return ans;
+        return new int[]{b1, b2};
     }
 }
