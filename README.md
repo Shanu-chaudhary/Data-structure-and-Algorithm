@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0056-merge-intervals) |
 | [0068-text-justification](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0068-text-justification) |
+| [0078-subsets](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0190-reverse-bits) |
@@ -225,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0231-power-of-two) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
