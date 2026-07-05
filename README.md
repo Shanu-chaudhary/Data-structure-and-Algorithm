@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0056-merge-intervals) |
 | [0068-text-justification](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0068-text-justification) |
 | [0078-subsets](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0078-subsets) |
+| [0130-surrounded-regions](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -41,18 +42,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0994-rotting-oranges) |
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0994-rotting-oranges) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0130-surrounded-regions) |
 | [0733-flood-fill](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0733-flood-fill) |
 ## Simulation
 |  |
@@ -236,4 +240,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0078-subsets) |
+## Union-Find
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0130-surrounded-regions) |
 <!---LeetCode Topics End-->
