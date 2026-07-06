@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1020-number-of-enclaves) |
+| [1288-remove-covered-intervals](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1288-remove-covered-intervals) |
 | [1732-find-the-highest-altitude](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1732-find-the-highest-altitude) |
 | [1765-map-of-highest-peak](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1765-map-of-highest-peak) |
 | [1833-maximum-ice-cream-bars](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1833-maximum-ice-cream-bars) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0056-merge-intervals) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1288-remove-covered-intervals](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1288-remove-covered-intervals) |
 | [1833-maximum-ice-cream-bars](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1840-maximum-building-height) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/2273-find-resultant-array-after-removing-anagrams) |
