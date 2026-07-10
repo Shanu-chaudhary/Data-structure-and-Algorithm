@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0011-container-with-most-water) |
+| [0048-rotate-image](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0056-merge-intervals) |
 | [0068-text-justification](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0068-text-justification) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0048-rotate-image) |
 | [0130-surrounded-regions](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0733-flood-fill) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0231-power-of-two) |
