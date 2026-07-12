@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0048-rotate-image) |
