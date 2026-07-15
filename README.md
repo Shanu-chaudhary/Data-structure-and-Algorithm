@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0380-insert-delete-getrandom-o1) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1840-maximum-building-height](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1840-maximum-building-height) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## String
 |  |
@@ -302,4 +303,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1291-sequential-digits) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
