@@ -20,10 +20,12 @@ class Solution {
         }
         return sum;
     }
-    public int gcd(int a, int b){
-        if(b == 0){
-            return a;
+    public int gcd(int a, int b) {
+        while (b != 0) {
+            int temp = b;
+            b = a % b;
+            a = temp;
         }
-        return gcd(b, a%b);
+        return a;
     }
 }
