@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0334-increasing-triplet-subsequence) |
+| [0397-integer-replacement](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0397-integer-replacement) |
 | [0605-can-place-flowers](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0605-can-place-flowers) |
 | [1833-maximum-ice-cream-bars](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1833-maximum-ice-cream-bars) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -230,11 +231,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0201-bitwise-and-of-numbers-range](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0260-single-number-iii) |
+| [0397-integer-replacement](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0397-integer-replacement) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0392-is-subsequence) |
+| [0397-integer-replacement](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0397-integer-replacement) |
 | [0542-01-matrix](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0542-01-matrix) |
 ## String Matching
 |  |
@@ -315,4 +318,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Memoization
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0397-integer-replacement) |
 <!---LeetCode Topics End-->
