@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0443-string-compression) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1189-maximum-number-of-balloons) |
 | [1768-merge-strings-alternately](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1768-merge-strings-alternately) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0443-string-compression) |
 | [1768-merge-strings-alternately](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1768-merge-strings-alternately) |
 | [2540-minimum-common-value](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/2540-minimum-common-value) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/3867-sum-of-gcd-of-formed-pairs) |
