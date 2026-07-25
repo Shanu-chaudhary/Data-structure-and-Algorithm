@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0228-summary-ranges) |
 | [0260-single-number-iii](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0260-single-number-iii) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0056-merge-intervals) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0414-third-maximum-number) |
 | [1288-remove-covered-intervals](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1288-remove-covered-intervals) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0004-median-of-two-sorted-arrays) |
 | [0190-reverse-bits](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0191-number-of-1-bits) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
@@ -344,4 +347,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0175-combine-two-tables) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
