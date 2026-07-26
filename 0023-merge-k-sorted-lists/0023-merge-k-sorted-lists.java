@@ -10,27 +10,39 @@
  */
 class Solution {
     public ListNode mergeKLists(ListNode[] lists) {
-        Queue<ListNode> pq = new PriorityQueue<>(new Comparator<ListNode>() {
-            @Override
-            public int compare(ListNode a, ListNode b) {
-                return a.val - b.val;
-            }
-        });
-        // PriorityQueue<ListNode> pq = new PriorityQueue<>((a, b) -> a.val - b.val);
-        for(ListNode head : lists){
-            if(head != null){
-                pq.offer(head); // sare list ke node ko insert kr diye kuuki list sorted hai
-            }
+        if(lists == null || lists.length == 0){
+            return null;
         }
-        ListNode dummy = new ListNode(-1); //dummy node creation, pehle se koi node nhi tha isliye
-        ListNode tail = dummy; // traverse krke add karne me help krega isliye
-        while(!pq.isEmpty()){
-            ListNode smallest = pq.poll();  // from minHeap
-            tail.next = smallest;
-            tail = tail.next;
-            if(smallest.next != null){
-                pq.offer(smallest.next);
+        return divide(lists, 0, lists.length-1);
+    }
+    private ListNode divide(ListNode[] lists, int left, int right){
+        if(left == right){
+            return lists[left];
+        }
+        int mid = left + (right - left)/2;
+        ListNode l1 = divide(lists, left, mid);
+        ListNode l2 = divide(lists, mid+1, right);
+        return merge(l1, l2);
+    }
+    private ListNode merge(ListNode l1, ListNode l2){
+        ListNode dummy = new ListNode(-1);
+        ListNode temp = dummy;
+        while(l1 != null && l2 != null){
+            if(l1.val <= l2.val){
+                temp.next = l1;
+                l1 = l1.next;
+            }else {
+                temp.next = l2;
+                l2 = l2.next;
             }
+            temp = temp.next;
+        }
+        if(l1 != null){
+            temp.next = l1;
+            // l1 = l1.next;
+        }else {
+            temp.next = l2;
+            // l2 = l2.next;
         }
         return dummy.next;
     }
