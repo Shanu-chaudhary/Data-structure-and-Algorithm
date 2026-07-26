@@ -357,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0175-combine-two-tables) |
+| [1757-recyclable-and-low-fat-products](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1757-recyclable-and-low-fat-products) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
