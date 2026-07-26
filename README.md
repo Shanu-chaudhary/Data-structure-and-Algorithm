@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0023-merge-k-sorted-lists) |
 | [0190-reverse-bits](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0023-merge-k-sorted-lists) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Recursion
@@ -353,9 +355,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
