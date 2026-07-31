@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0068-text-justification) |
 | [0127-word-ladder](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0127-word-ladder) |
+| [0214-shortest-palindrome](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0214-shortest-palindrome) |
 | [0290-word-pattern](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0383-ransom-note) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0214-shortest-palindrome) |
 ## Sliding Window
 |  |
 | ------- |
@@ -398,4 +400,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0347-top-k-frequent-elements) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
