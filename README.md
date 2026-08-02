@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0733-flood-fill) |
+| [0877-stone-game](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1020-number-of-enclaves) |
 | [1288-remove-covered-intervals](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1288-remove-covered-intervals) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0231-power-of-two) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0380-insert-delete-getrandom-o1) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1840-maximum-building-height](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0392-is-subsequence) |
 | [0397-integer-replacement](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0397-integer-replacement) |
 | [0542-01-matrix](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0542-01-matrix) |
+| [0877-stone-game](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0877-stone-game) |
 ## String Matching
 |  |
 | ------- |
@@ -408,4 +411,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0214-shortest-palindrome) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
