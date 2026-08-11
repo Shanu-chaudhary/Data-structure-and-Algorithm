@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/2553-separate-the-digits-in-an-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/2390-removing-stars-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -418,4 +421,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0877-stone-game) |
+## Trie
+|  |
+| ------- |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->
