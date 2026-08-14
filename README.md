@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0733-flood-fill) |
 | [0877-stone-game](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0994-rotting-oranges) |
+| [1004-max-consecutive-ones-iii](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1020-number-of-enclaves) |
 | [1288-remove-covered-intervals](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1331-rank-transform-of-an-array) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0540-single-element-in-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1004-max-consecutive-ones-iii) |
 | [2540-minimum-common-value](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/2540-minimum-common-value) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Greedy
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1004-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1991-find-the-middle-index-in-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0219-contains-duplicate-ii) |
+| [1004-max-consecutive-ones-iii](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1004-max-consecutive-ones-iii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Counting Sort
 |  |
