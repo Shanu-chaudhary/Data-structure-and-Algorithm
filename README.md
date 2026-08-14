@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1768-merge-strings-alternately) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2390-removing-stars-from-a-string](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/2390-removing-stars-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0219-contains-duplicate-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1004-max-consecutive-ones-iii) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Counting Sort
 |  |
