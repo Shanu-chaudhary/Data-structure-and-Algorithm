@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0067-add-binary) |
+| [0172-factorial-trailing-zeroes](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0231-power-of-two) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0380-insert-delete-getrandom-o1) |
