@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0127-word-ladder) |
+| [0146-lru-cache](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0290-word-pattern) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0146-lru-cache) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
 |  |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0023-merge-k-sorted-lists) |
+| [0146-lru-cache](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0146-lru-cache) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -436,4 +439,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
