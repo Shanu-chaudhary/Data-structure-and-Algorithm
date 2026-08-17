@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0383-ransom-note) |
+| [0460-lfu-cache](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0460-lfu-cache) |
 | [1189-maximum-number-of-balloons](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1331-rank-transform-of-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0146-lru-cache) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0380-insert-delete-getrandom-o1) |
+| [0460-lfu-cache](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0460-lfu-cache) |
 ## Randomized
 |  |
 | ------- |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0023-merge-k-sorted-lists) |
 | [0146-lru-cache](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0460-lfu-cache) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -449,4 +452,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
