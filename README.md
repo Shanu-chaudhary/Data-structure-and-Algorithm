@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0226-invert-binary-tree) |
 | [0542-01-matrix](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0542-01-matrix) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0802-find-eventual-safe-states) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0802-find-eventual-safe-states) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0383-ransom-note) |
 | [0460-lfu-cache](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0460-lfu-cache) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1189-maximum-number-of-balloons](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1331-rank-transform-of-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -265,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0443-string-compression) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1768-merge-strings-alternately](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1768-merge-strings-alternately) |
 | [2540-minimum-common-value](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/2540-minimum-common-value) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -480,12 +484,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -494,4 +500,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0653-two-sum-iv-input-is-a-bst) |
 <!---LeetCode Topics End-->
