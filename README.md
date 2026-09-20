@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1840-maximum-building-height](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -506,4 +507,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
