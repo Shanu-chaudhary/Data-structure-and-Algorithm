@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1732-find-the-highest-altitude) |
 | [1765-map-of-highest-peak](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1765-map-of-highest-peak) |
 | [1833-maximum-ice-cream-bars](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1833-maximum-ice-cream-bars) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1331-rank-transform-of-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2295-replace-elements-in-an-array](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/2295-replace-elements-in-an-array) |
 | [2540-minimum-common-value](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/2540-minimum-common-value) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0443-string-compression) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1768-merge-strings-alternately) |
 | [2540-minimum-common-value](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/2540-minimum-common-value) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1833-maximum-ice-cream-bars](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1840-maximum-building-height) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/2273-find-resultant-array-after-removing-anagrams) |
