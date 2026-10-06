@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0334-increasing-triplet-subsequence) |
 | [0397-integer-replacement](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0397-integer-replacement) |
 | [0605-can-place-flowers](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0605-can-place-flowers) |
+| [0763-partition-labels](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0763-partition-labels) |
 | [1833-maximum-ice-cream-bars](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1833-maximum-ice-cream-bars) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0443-string-compression) |
+| [0763-partition-labels](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0763-partition-labels) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1189-maximum-number-of-balloons) |
 | [1768-merge-strings-alternately](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1768-merge-strings-alternately) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0383-ransom-note) |
 | [0460-lfu-cache](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0460-lfu-cache) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0763-partition-labels](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0763-partition-labels) |
 | [1189-maximum-number-of-balloons](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1331-rank-transform-of-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0443-string-compression) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0763-partition-labels](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0763-partition-labels) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1768-merge-strings-alternately) |
 | [2540-minimum-common-value](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/2540-minimum-common-value) |
