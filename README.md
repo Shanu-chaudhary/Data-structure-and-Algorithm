@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1991-find-the-middle-index-in-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2295-replace-elements-in-an-array](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/2295-replace-elements-in-an-array) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0540-single-element-in-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1004-max-consecutive-ones-iii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/2540-minimum-common-value) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Greedy
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1833-maximum-ice-cream-bars](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1840-maximum-building-height) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
