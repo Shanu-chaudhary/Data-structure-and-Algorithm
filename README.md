@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0202-happy-number) |
+| [0224-basic-calculator](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0231-power-of-two) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0380-insert-delete-getrandom-o1) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0628-maximum-product-of-three-numbers) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0071-simplify-path) |
 | [0127-word-ladder](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0127-word-ladder) |
 | [0214-shortest-palindrome](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0214-shortest-palindrome) |
+| [0224-basic-calculator](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0224-basic-calculator) |
 | [0290-word-pattern](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0383-ransom-note) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0071-simplify-path](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0224-basic-calculator](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0224-basic-calculator) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1021-remove-outermost-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/2390-removing-stars-from-a-string) |
@@ -404,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0231-power-of-two) |
 ## Backtracking
 |  |
