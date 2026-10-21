@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0071-simplify-path) |
 | [0127-word-ladder](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0127-word-ladder) |
 | [0214-shortest-palindrome](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0214-shortest-palindrome) |
 | [0290-word-pattern](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0290-word-pattern) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/1021-remove-outermost-parentheses) |
