@@ -1,21 +1,22 @@
 class Solution {
+    //Bottom up
     public int rob(int[] nums) {
         int n = nums.length;
+        if(n == 1){
+            return nums[0];
+        }
+        if(n == 2){
+            return Math.max(nums[0], nums[1]);
+        }
         int[] dp = new int[n+1];
-        Arrays.fill(dp, -1);
-        int ans = count(0, nums, dp);
-        return ans;
-    }
-    private int count(int n, int[] nums, int[] dp){
-        if(n >= nums.length){
-            return 0;
+        dp[0] = 0;
+        dp[1] = nums[0];
+        for(int i=2; i<=n; i++){
+            int take = nums[i-1] + dp[i-2];
+            int skip = dp[i-1];
+            dp[i] = Math.max(take, skip);
         }
-        if(dp[n] != -1){
-            return dp[n];
-        }
-        int take = nums[n] + count(n+2, nums, dp);
-        int skip = count(n+1, nums, dp);
-        dp[n] = Math.max(take, skip);
         return dp[n];
+        
     }
 }
