@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0202-happy-number) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0392-is-subsequence) |
 | [0397-integer-replacement](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0397-integer-replacement) |
 | [0542-01-matrix](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0542-01-matrix) |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0070-climbing-stairs) |
 | [0397-integer-replacement](https://github.com/Shanu-chaudhary/Data-structure-and-Algorithm/tree/master/0397-integer-replacement) |
 ## Database
 |  |
