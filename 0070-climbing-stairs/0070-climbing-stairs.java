@@ -1,16 +1,17 @@
 class Solution {
     public int climbStairs(int n) {
+        int[] dp = new int[n+1];
+        Arrays.fill(dp, -1);
+        int ans = f(n, dp);
+        return ans;
+    }
+    public int f(int n, int[] dp){
         if(n <= 1){
-            return n;
+            return 1;
         }
-        int a = 1;
-        int b = 1;
-        int c =0;
-        for(int i=2; i<=n; i++){
-            c = a + b;
-            a = b;
-            b = c;
+        if(dp[n] != -1){
+            return dp[n];
         }
-        return c;
+        return dp[n] = f(n-1, dp) + f(n-2, dp);
     }
 }
